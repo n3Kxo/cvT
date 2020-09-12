@@ -1,5 +1,5 @@
 baseURL = "https://heuristic-fermat-c36c55.netlify.app"
-title   = "Hello Friend NG"
+title   = "cv Test"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -59,7 +59,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "root@server:~$"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
