@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://heuristic-fermat-c36c55.netlify.app"
 title   = "Hello Friend NG"
 languageCode = "en-us"
 theme = "hello-friend-ng"
